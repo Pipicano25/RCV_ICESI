@@ -1,0 +1,13 @@
+.venv/
+*.zip
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.DS_Store
+.vscode/
+
+*.xlsx
+*.csv
+*.parquet
+*.pkl
