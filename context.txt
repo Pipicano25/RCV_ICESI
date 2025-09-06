@@ -1,0 +1,41 @@
+
+Contexto entregado por el encargado del proyecto por parte de Nelson Andrade <nelsonandrade9@gmail.com> enviado a traves de correo electronico.
+
+Reciba un cordial saludo Andrerson. Agradezco su interés y acercamiento respecto al reto de predicción del riesgo cardiovascular, el cual, como bien menciona, se enmarca dentro de las posibles líneas de trabajo de la Maestría en Inteligencia Artificial Aplicada.
+
+Con base a lo trabajado anteriormente se ha definido lo siguiente:
+
+Objetivos específicos del reto:
+
+Realizar un análisis exploratorio de datos clínicos y sociodemográficos de pacientes atendidos en la ESE Oriente (comunas 13, 14, 15 y 21 de Cali) entre 2019 y 2023.
+
+Identificar las variables más relevantes asociadas al riesgo cardiovascular (edad, hipertensión, diabetes, obesidad, sedentarismo, entre otras).
+
+Desarrollar y validar un modelo predictivo utilizando técnicas de aprendizaje automático (Machine Learning) para estimar la prevalencia del riesgo cardiovascular en esta población vulnerable.
+
+Evaluar el desempeño del modelo mediante métricas como precisión, sensibilidad, especificidad y área bajo la curva ROC.
+
+Tecnología y enfoque propuesto:
+
+El proyecto se desarrolla bajo la metodología CRISP-DM (Cross-Industry Standard Process for Data Mining), que guía todo el proceso desde la comprensión del problema hasta la evaluación del modelo.
+Las herramientas tecnológicas principales son Python y/o RStudio, utilizando librerías como Scikit-learn, Pandas, NumPy, Matplotlib, entre otras.
+Se trabajará con un conjunto de datos secundarios anonimizados, lo que garantiza el cumplimiento de aspectos éticos y de confidencialidad.
+
+Alcance esperado y productos finales:
+
+Un modelo predictivo validado capaz de estimar el riesgo cardiovascular en poblaciones vulnerables.
+Un informe técnico con el análisis exploratorio, selección de variables y evaluación del modelo.
+Posibilidad de publicación en revistas científicas o presentación en congresos de salud pública o inteligencia artificial aplicada.
+Apoyo para la toma de decisiones en políticas de prevención primaria en salud cardiovascular.
+Me parece excelente la posibilidad de abordar este reto de forma colaborativa, especialmente si puede articularse con necesidades reales de su entorno laboral. Con gusto puedo coordinar una reunión corta para profundizar en los detalles, ajustar expectativas y explorar sinergias.
+
+Tengo disponibilidad el jueves en la tarde o viernes en la mañana.
+
+Quedo atento.
+
+Teniendo en cuenta el proceso que se tiene por realizar y el enfoque que se tiene del proyecto se plantea la siguiente pregunta SMART.
+
+“¿En qué medida se puede predecir el riesgo de hospitalización por complicaciones de 
+cardiacas en la población afiliada a una entidad de salud, durante los próximos 12 
+meses, utilizando datos históricos clínicos y demográficos registrados entre 2019 y 
+2024?”
