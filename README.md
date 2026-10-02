@@ -21,6 +21,18 @@ Predecir el riesgo de hospitalización por complicaciones cardiacas usando datos
 - `context.txt` — contexto y objetivos del reto (correo del encargado del proyecto).
 - `main.py` y `requirements.txt` — archivos auxiliares (actualmente vacíos).
 
+## Temas, tecnologías y notebooks
+
+Cada notebook enlaza a su archivo en GitHub.
+
+| Tema | Tecnologías | Notebooks |
+|---|---|---|
+| Conversión de Excel a Parquet | polars | [1_1_parquet_converter.ipynb](https://github.com/Pipicano25/RCV_ICESI/blob/main/scripts/1_1_parquet_converter.ipynb) |
+| Unificación de archivos Parquet | polars | [1_2_unify_parquet.ipynb](https://github.com/Pipicano25/RCV_ICESI/blob/main/scripts/1_2_unify_parquet.ipynb) |
+| Asignación de formatos a columnas | polars | [2_1_set_column_formats.ipynb](https://github.com/Pipicano25/RCV_ICESI/blob/main/scripts/2_1_set_column_formats.ipynb) |
+| Análisis exploratorio (EDA) | polars, matplotlib | [3_1_exploratory_analysis.ipynb](https://github.com/Pipicano25/RCV_ICESI/blob/main/scripts/3_1_exploratory_analysis.ipynb) |
+| Modelo de regresión (test 1 y 2) | scikit-learn, polars | [4_1_model.ipynb](https://github.com/Pipicano25/RCV_ICESI/blob/main/scripts/4_1_model.ipynb), [4_2_model.ipynb](https://github.com/Pipicano25/RCV_ICESI/blob/main/scripts/4_2_model.ipynb) |
+
 ## Uso
 
 Ejecutar los notebooks en orden (del 1 al 4) para replicar el flujo CRISP-DM: preparación de datos, análisis exploratorio, modelado y evaluación del modelo.
